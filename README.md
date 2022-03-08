@@ -3,8 +3,7 @@
 ## About the app:
 this a android app shows Countries info on Recycler-View.  c
 
-the app was write on **Android studio** in **Kotlin** languege , Used **Material Design Components**.
-the app using **RecyclerView** to show the app data.
+the app was write on **Android studio** in **Kotlin** languege , Used **Material Design Components** and used **RecyclerView** to show the app data.
 using **API** for the data from https://restcountries.com in json format and using **Google Maps API** to show the country on google maps fragment.
 using **Gson library**
 
